@@ -1,0 +1,88 @@
+{
+    
+    "Jin Mild Ramyun" : {
+        "Price": "£0.89",
+        "Description": "Mild spicy korean ramyun",
+        "Rating" : 4.2,
+        "Hot" : 1,
+    },
+    "Shin Ramen" : {
+        "Price": "£3.89",
+        "Description": "Combined pack of 5 shin ramen. Very authentic korean ramen flavour.",
+        "Rating" : 3.7,
+        "Hot" : 2,
+    },
+    "Kimchi Ramyun" : {	
+        "Price": "£3.59",
+        "Description": "Lightly spicy kimchi flavour instant noodles. Authentic korean ramen.",
+        "Rating" : 4.2,
+        "Hot" : 1,
+    },
+    "Neoguri Ramen" : {	
+        "Price": "£3.39",
+        "Description": "Oriental spicy seafood soup flavour noodles. Bevare - it is really hot.",
+        "Rating" : 3.9,
+        "Hot" : 3,
+    },
+    "Potato Ramen" : {	
+        "Price": "£1.29",
+        "Description": "Aromatic potato flavour noodles. Suitable for vegetarians.",
+        "Rating" : 4.5,
+        "Hot" : 0,
+    },
+    "Sesame Ramen" : {	
+        "Price": "£3.59",
+        "Description": "Unbelievably rich taste of sesame and egg. Really authentic ramen.",
+        "Rating" : 4.7,
+        "Hot" : 0,
+    },
+    "Soon Ramen" : {	
+        "Price": "£2.99",
+        "Description": "Oriental instant noodles with vegetable flavour. Suitable for vegetarians.",
+        "Rating" : 4.2,
+        "Hot" : 0,
+    },
+    "Chacharoni" : {	
+        "Price": "£1.09",
+        "Description": "Real black bean noodles with vegatbles and pieces of meat.",
+        "Rating" : 3.9,
+        "Hot" : 0,
+    },
+    "Champong Noodles" : {	
+        "Price": "£1.29",
+        "Description": "Oriental spicy seafood flavour ramen. Authentic korean seafood soup taste.",
+        "Rating" : 3.4,
+        "Hot" : 2,
+    },
+    "Chapagetti" : {	
+        "Price": "£1.19",
+        "Description": "Easy to cook black bean noodles. Traditional black bean flavour.",
+        "Rating" : 4.0,
+        "Hot" : 0,
+    },
+    "Yeul Ramen" : {	
+        "Price": "£1.09",
+        "Description": "Yeul ramen are extremely hot. Don't even try if you can't eat spicy food.",
+        "Rating" : 2.7,
+        "Hot" : 3,
+    },
+    "Honey Twist" : {	
+        "Price": "£1.49",
+        "Description": "Original korean twisted cracker with apple and honey flavour.",
+        "Rating" : 3.6,
+        "Hot" : 0,
+    },
+    "Potato Snack" : {	
+        "Price": "£1.19",
+        "Description": "Yummy potato cracker with mild flavour.",
+        "Rating" : 4.9,
+        "Hot" : 1,
+    },
+    "Shrimp Chips" : {	
+        "Price": "£1.79",
+        "Description": "Unbelievably rich taste of shrimp meat. Famous oriental cracker.",
+        "Rating" : 4.1,
+        "Hot" : 0,
+    }
+  
+}

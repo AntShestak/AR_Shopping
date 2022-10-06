@@ -1,0 +1,157 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: RamenLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5499404151843131369
+  m_GuidHigh: 12334171306317195709
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4741528672732956987
+      m_GuidHigh: 1640435551265569195
+    m_SerializedTextureGuid:
+      m_GuidLow: 12629408873490055421
+      m_GuidHigh: 14871671593276235947
+    m_Size: {x: 0.2, y: 0.20795456}
+    m_SpecifySize: 1
+    m_Name: Shin Ramen
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4995421934175138119
+      m_GuidHigh: 4368773511888624288
+    m_SerializedTextureGuid:
+      m_GuidLow: 11697036757060330927
+      m_GuidHigh: 1692709052830765371
+    m_Size: {x: 0.2, y: 0.2}
+    m_SpecifySize: 1
+    m_Name: Kimchi Ramyun
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4976393057646160067
+      m_GuidHigh: 9400608294928693152
+    m_SerializedTextureGuid:
+      m_GuidLow: 870381746557573581
+      m_GuidHigh: 7486261507768957643
+    m_Size: {x: 0.2, y: 0.15818182}
+    m_SpecifySize: 1
+    m_Name: Kimchi Chicken Ramen
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5514366953341263597
+      m_GuidHigh: 9358276220753244342
+    m_SerializedTextureGuid:
+      m_GuidLow: 3360962793814225765
+      m_GuidHigh: 6697427559523779339
+    m_Size: {x: 0.2, y: 0.16429873}
+    m_SpecifySize: 1
+    m_Name: Neoguri Ramen
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4807704147319803457
+      m_GuidHigh: 596097448021586099
+    m_SerializedTextureGuid:
+      m_GuidLow: 13538971272748123267
+      m_GuidHigh: 11217287558219784266
+    m_Size: {x: 0.2, y: 0.15}
+    m_SpecifySize: 1
+    m_Name: Potato Ramen
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4633351110273018860
+      m_GuidHigh: 13936092966566505105
+    m_SerializedTextureGuid:
+      m_GuidLow: 12084504732825824008
+      m_GuidHigh: 1497937993433498907
+    m_Size: {x: 0.2, y: 0.15967414}
+    m_SpecifySize: 1
+    m_Name: Sesame Ramen
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5035917464138763015
+      m_GuidHigh: 10945025852945320374
+    m_SerializedTextureGuid:
+      m_GuidLow: 16623981833956386611
+      m_GuidHigh: 12362047707031778920
+    m_Size: {x: 0.2, y: 0.14887218}
+    m_SpecifySize: 1
+    m_Name: Soon Ramen
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4774124430238954724
+      m_GuidHigh: 11866800618927861392
+    m_SerializedTextureGuid:
+      m_GuidLow: 13998539547803915107
+      m_GuidHigh: 13166713847430079611
+    m_Size: {x: 0.2, y: 0.19363058}
+    m_SpecifySize: 1
+    m_Name: Chacharoni
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5445346220505565593
+      m_GuidHigh: 12805577602916140188
+    m_SerializedTextureGuid:
+      m_GuidLow: 12282547344167952633
+      m_GuidHigh: 4689729606269299163
+    m_Size: {x: 0.2, y: 0.19551936}
+    m_SpecifySize: 1
+    m_Name: Champong Noodles
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5390943812987048199
+      m_GuidHigh: 2713350989019659665
+    m_SerializedTextureGuid:
+      m_GuidLow: 15795339845507182193
+      m_GuidHigh: 12041678472487514985
+    m_Size: {x: 0.2, y: 0.17219251}
+    m_SpecifySize: 1
+    m_Name: Chapagetti
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5669503598405849440
+      m_GuidHigh: 13857269003896411784
+    m_SerializedTextureGuid:
+      m_GuidLow: 2766372522778494832
+      m_GuidHigh: 16649308469725438585
+    m_Size: {x: 0.15, y: 0.17401962}
+    m_SpecifySize: 1
+    m_Name: Yeul Ramen
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5121459498069657513
+      m_GuidHigh: 4335294542846868899
+    m_SerializedTextureGuid:
+      m_GuidLow: 2649512359911268939
+      m_GuidHigh: 7385037446877947081
+    m_Size: {x: 0.2, y: 0.22282283}
+    m_SpecifySize: 1
+    m_Name: Honey Twist
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5313880012911406712
+      m_GuidHigh: 15511645552668751775
+    m_SerializedTextureGuid:
+      m_GuidLow: 14052393529881271774
+      m_GuidHigh: 12224845466072795993
+    m_Size: {x: 0.1, y: 0.17377777}
+    m_SpecifySize: 1
+    m_Name: Potato Snack
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4915782920355960517
+      m_GuidHigh: 5300891748026497166
+    m_SerializedTextureGuid:
+      m_GuidLow: 17389771883218817861
+      m_GuidHigh: 17318539230760020491
+    m_Size: {x: 0.22, y: 0.28254902}
+    m_SpecifySize: 1
+    m_Name: Shrimp Chips
+    m_Texture: {fileID: 0}
